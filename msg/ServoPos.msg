@@ -1,0 +1,2 @@
+int32 servo1_pos
+int32 servo2_pos
